@@ -47,5 +47,5 @@ I published both of these articles.
 This first step was pretty easy. With exception of the ~10-minute wait for the
 site to show up and the time writing, this only took a few minutes to setup.
 
-[md](http://daringfireball.net/projects/markdown/)
-[md-ref](http://daringfireball.net/projects/markdown/syntax)
+[md]: http://daringfireball.net/projects/markdown/
+[md-ref]: http://daringfireball.net/projects/markdown/syntax
