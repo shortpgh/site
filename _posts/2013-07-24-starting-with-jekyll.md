@@ -72,4 +72,9 @@ provided post as a starting point.
     ---
 
 After moving and adding the front matter, both articles showed up on my home
-page.
+page. With a simple push to github, they all apear on the page.
+
+## workflow
+
+To this point, I haven't done very much checking my styling or editing my posts.
+While I already p
