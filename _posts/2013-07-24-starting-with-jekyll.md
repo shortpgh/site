@@ -71,4 +71,5 @@ provided post as a starting point.
     categories: article
     ---
 
-
+After moving and adding the front matter, both articles showed up on my home
+page.
