@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Getting started."
+date:   2013-07-15 22:12:48
+categories: article
+---
+
 # Getting started with Github pages
 
 In this (my first) article, I'm following my initial setup with GitHub Pages. I
