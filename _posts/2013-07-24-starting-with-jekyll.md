@@ -77,4 +77,6 @@ page. With a simple push to github, they all apear on the page.
 ## workflow
 
 To this point, I haven't done very much checking my styling or editing my posts.
-While I already p
+I already have another post that I'm working on, but haven't finished. So that
+it doesn't show on the posted site, I simple let off the date from the filename
+and the front matter and it doesn't show.
