@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" type="text/css" href="stylesheets/application.css">
+    </head>
+    <body>
+        <header role="banner">
+            <nav role="navigation">
+                <ul>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">tags</a></li>
+                    <li><a href="#">guides</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main role="main">
+            <article role="region" aria-labelled-by="article-heading">
+                <h1 id="article-heading">Getting Started with Jekyll</h1>
+                <p>2013 08 15</p>
+                <p>
+Now that I have a basic site, the next step is to make it more advanced. I want
+to use Jekyll to do that.
+                </p>
+                <p>
+I started with the running jekyll new to get started. Because there are already
+some files here, I shad to force it to run in the directory. This overwrites my
+already created files.
+
+    jekyll new --force
+
+Then so that I can test my changes locally, I started the built-in Jekyll
+server.
+
+    jekyll serve --watch
+
+with that up, i was able to see my site at http://localhost:4000/.
+                </p>
+            </article>
+            <nav>
+                <a href="#">related posts</a>
+            </nav>
+        </main>
+        <div>
+            <p>ads by someone</p>
+        </div>
+        <footer role="contentinfo">
+            <div>powered by me</div>
+            <div>built with jekyll and using github pages</div>
+            <nav>
+                <a href="#">about</a>
+            </nav>
+        </footer>
+    </body>
+</html>

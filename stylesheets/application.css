@@ -1,0 +1,20 @@
+/* line 4, ../sass/_base.scss */
+body {
+  font-size: 100%;
+}
+
+/*
+@import "compass/reset";
+@import "compass/utilities";
+*/
+/* line 3, ../sass/application.scss */
+ul {
+  list-style: none;
+  margin: 0em;
+  padding: 0em;
+}
+
+/* line 9, ../sass/application.scss */
+header nav ul li {
+  display: inline;
+}
