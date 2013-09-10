@@ -28,18 +28,37 @@ module.exports = function(grunt) {
                 dest: 'prod'
             }
         },
+        stylus: {
+          compile : {
+            files : {
+              'css/base.css' : 'styl/*.styl'
+            }
+          }
+        },
+        concurrent: {
+            target: {
+                tasks: ['jekyll:server', 'watch'],
+                options: {
+                    logConcurrentOutput: true
+                }
+            }
+        },
         watch: { // for development run 'grunt watch'
-            jekyll: {
-                files: ['*.html'],
-                tasks: ['jekyll:dev']
+            stylus: {
+                files: ['public/styles/*.styl'],
+                tasks: 'stylus'
             }
         }
     });
 
     // These plugins provide necessary tasks.
+    grunt.loadNpmTasks('grunt-contrib');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-jekyll');
+    grunt.loadNpmTasks('grunt-contrib-stylus');
+    grunt.loadNpmTasks('grunt-concurrent');
 
     // Default task.
     grunt.registerTask('default', 'jekyll:server');
+    grunt.registerTask('dev', 'concurrent');
 };
