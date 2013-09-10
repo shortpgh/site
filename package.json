@@ -6,7 +6,8 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
-    "stylus": "~0.37.0"
+    "stylus": "~0.37.0",
+    "grunt-jekyll": "~0.3.9"
   },
   "scripts": {},
   "repository": {
