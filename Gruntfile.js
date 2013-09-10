@@ -13,19 +13,13 @@ module.exports = function(grunt) {
         // Task configuration.
         jekyll: {
             server : {
-                src : '.',
-                dest: 'dev',
                 server : true,
-                server_port : 8000,
+                server_port : 4000,
                 auto : true
             },
             dev: {
-                src: '.',
-                dest: 'dev'
             },
             prod: {
-                src: '.',
-                dest: 'prod'
             }
         },
         stylus: {
