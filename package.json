@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "description": "my personal blog.",
   "main": "index.js",
-  "dependencies": {
-    "stylus": "*"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "stylus": "~0.37.0"
   },
   "scripts": {},
   "repository": {
