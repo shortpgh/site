@@ -6,19 +6,19 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/application.css">
     </head>
     <body>
-        <header role="banner">
-            <nav role="navigation">
+        <header role="banner" class="page-header">
+            <nav role="navigation" class="nav-list">
                 <ul>
-                    <li><a href="#">home</a></li>
+                    <li><a href="#">short</a></li>
                     <li><a href="#">tags</a></li>
                     <li><a href="#">guides</a></li>
                 </ul>
             </nav>
         </header>
-        <main role="main">
-            <article role="region" aria-labelled-by="article-heading">
+        <section role="main" class="main">
+            <article role="region" aria-labelled-by="article-heading" class="article">
                 <h1 id="article-heading">Getting Started with Jekyll</h1>
-                <p>2013 08 15</p>
+                <p class="article-date">2013 08 15</p>
                 <p>
 Now that I have a basic site, the next step is to make it more advanced. I want
 to use Jekyll to do that.
@@ -41,15 +41,20 @@ with that up, i was able to see my site at http://localhost:4000/.
             <nav>
                 <a href="#">related posts</a>
             </nav>
-        </main>
-        <div>
-            <p>ads by someone</p>
-        </div>
-        <footer role="contentinfo">
-            <div>powered by me</div>
-            <div>built with jekyll and using github pages</div>
-            <nav>
-                <a href="#">about</a>
+            <div>
+                <p>ads by someone</p>
+            </div>
+        </section>
+        <footer role="contentinfo" class="footer">
+            <div>
+                <p>© 2013 nik mihalick</p>
+            </div>
+            <nav class="nav-list">
+                <ul>
+                    <li><a class="text-large" href="#">about</a></li>
+                    <li><a class="text-large" href="#">rss</a></li>
+                    <li><a class="text-large" href="#">json</a></li>
+                </ul>
             </nav>
         </footer>
     </body>
