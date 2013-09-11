@@ -20,3 +20,10 @@ I chose github pages because I find it to be developer friendly. It allows me to
 write my posts in VIM. It lets me write my own style sheets and use a
 pre-processor like Stylus and Sass.
 
+One of the problems with github pages is that you don't get the pretty,
+designer-created, default templates that so many other  blogging platforms
+provide. This has also been a problem in getting this site live. Instead of
+writing content, I've been focusing on the design of my page and the tools
+around using it. This almost lead me to chose a different platform.
+
+But honestly, the control over my markup is well worth this sacrifice.
