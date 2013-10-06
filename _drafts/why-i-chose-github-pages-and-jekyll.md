@@ -32,9 +32,4 @@ Github, from the code I write to the writings I publish. But it offers the
 easy management of a closed-source platform. I can also choose the way I write
 CSS, write my own javascript, and markup my HTML the way I prefer.
 
-A final reason is that I can write my posts in Vim or in a web interface. I
-spend most of my time working in Vim, so I love that I can flip over and write a
-quick blog post without changing the environment I am normally in. But when I
-need to, typically away from my computer, the option to write posts using a web
-interface exists. This is especially helpful when I want to do some writing from
-my phone.
+These are only a few of the reasons why I decided oto use Github pages.
