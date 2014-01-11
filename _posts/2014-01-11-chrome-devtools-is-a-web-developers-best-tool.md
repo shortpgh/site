@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Chrome DevTools is a Web Developers Best Tool"
-date:   2014-01-01 21:42:00
+date:   2014-01-11 16:47:00
 blurb: Chrome's DevTools is one of my favorite development tools. It is one of the best - if not the best - tools available to web developers. I provide some reasons why I believe this.
-tags: self improvement
+tags: devtools
 ---
 
 Chrome's [DevTools](https://developers.google.com/chrome-developer-tools/) is one of my favorite development tools. It is one of the best - if not the best - tools available to web developers. It makes you more productive. It also lets you perform numerous developer functions in the same platform that you are building for -- a browser. There aren’t many development platforms that have tools at this level.
