@@ -3,3 +3,5 @@ markdown: redcarpet
 safe: true
 lsi: false
 pygments: true
+url: http://shortpgh.com
+permalink: pretty
