@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" type="text/css" href="stylesheets/application.css">
+    </head>
+    <body>
+        <header role="banner" class="page-header">
+            <nav role="navigation" class="nav-list">
+                <ul>
+                    <li><a href="#">short</a></li>
+                    <li><a href="#">tags</a></li>
+                    <li><a href="#">guides</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section role="main" class="main">
+            <article role="region" aria-labelled-by="article-heading" class="article">
+                <h1 id="article-heading">Getting Started with Jekyll</h1>
+                <p class="article-date">2013 08 15</p>
+                <p>
+Now that I have a basic site, the next step is to make it more advanced. I want
+to use Jekyll to do that.
+                </p>
+                <p>
+I started with the running jekyll new to get started. Because there are already
+some files here, I shad to force it to run in the directory. This overwrites my
+already created files.
+
+    jekyll new --force
+
+Then so that I can test my changes locally, I started the built-in Jekyll
+server.
+
+    jekyll serve --watch
+
+with that up, i was able to see my site at http://localhost:4000/.
+                </p>
+            </article>
+            <nav>
+                <a href="#">related posts</a>
+            </nav>
+            <div>
+                <p>ads by someone</p>
+            </div>
+        </section>
+        <footer role="contentinfo" class="footer">
+            <div>
+                <p>© 2013 nik mihalick</p>
+            </div>
+            <nav class="nav-list">
+                <ul>
+                    <li><a class="text-large" href="#">about</a></li>
+                    <li><a class="text-large" href="#">rss</a></li>
+                    <li><a class="text-large" href="#">json</a></li>
+                </ul>
+            </nav>
+        </footer>
+    </body>
+</html>

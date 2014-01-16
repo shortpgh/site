@@ -1,0 +1,87 @@
+/* colors */
+
+light-grey = #505050;
+
+/* functions */
+
+remove-margins()
+    margin-top 0;
+    margin-bottom 0;
+
+small-grey-print()
+    font-size: .8em;
+    color light-grey;
+
+/* styles */
+
+body
+    font 100%;
+
+a
+    text-decoration none;
+
+a:hover
+    text-decoration underline;
+
+header a
+    color black;
+
+body > header > h1
+    margin-bottom: .2em;
+
+body > header > h1 > a > img
+    height: 150px;
+    width: 150px;
+
+nav ul
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 0;
+    margin-top: 0;
+    
+nav ul li
+    display inline;
+
+article h1
+    margin-bottom 0px;
+
+article h1 a
+    color black;
+
+article p
+    display block;
+    remove-margins()
+
+article p:nth-child(2)
+    small-grey-print()
+
+footer
+    padding-top 2em;
+
+/* large screen styles */
+
+@media screen and (min-width: 50em)
+    header
+        float left;
+        width 20em;
+
+    section, footer
+        width 50em;
+
+    section
+        float left;
+        min-height 37.5em;
+
+    section header
+        float none;
+        width 100%;
+
+    section header h1
+        margin-bottom 0;
+
+    section header p
+        remove-margins()
+        small-grey-print()
+
+    footer
+        clear both;
