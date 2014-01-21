@@ -1,0 +1,42 @@
+---
+layout: page
+title:  "Setup Chrome DevTools Environment"
+tags: devtools
+---
+
+<div>
+    <h2><a href="https://www.google.com/intl/en/chrome/browser/canary.html">Download Chrome Canary</a></h2>
+    <p>Chrome Canary is the bleeding edge of Chrome. If you want the best and
+    newest that DevTools has to offer, use this browser. It updates nightly, so
+    be prepared for the occasional bug.</p>
+</div>
+
+<div>
+    <h2>Working with SASS Source Maps</h2>
+    <p>Start by installing the pre-release version of SASS.</p>
+    <code class="highlight">gem install sass -v '>=3.3.0alpha' --pre</code>
+    <p>Then run SASS using the --source-maps flag.</p>
+    <code class="highlight">sass --watch --sourcemap sass/styles.scss:styles.css</code>
+    <p>Then <a
+    href="https://developers.google.com/chrome-developer-tools/docs/css-preprocessors#toc-enabling-css-source-maps">read the instructions</a> for setting up source maps.</p>
+</div>
+
+<div>
+    <h2>Setup Workspaces</h2>
+    <p>Workspaces provides the ability for you to edit your Javascript, CSS, and
+    SASS files right in your DevTools. It makes for quick editing of files while
+    fixing bugs and making visual tweaks. It's powerful enough that you could
+    leave your standard editor behind and develop this code right in the
+    browser.</p>
+    <p><a
+    href="https://developers.google.com/chrome-developer-tools/docs/settings#workspace">Read
+    the instructions.</a></p>
+    <p>Map your Network Resources.</p>
+</div>
+
+<div>
+    <h2>Ready for More?</h2>
+    <p>The steps above just get you ready to unlock the full potential of
+    Chrome's DevTools as a development environment. Check out <a href="">some more
+    resources</a> here to learn how to make use of all of its features.</p>
+</div>

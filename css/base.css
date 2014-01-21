@@ -2,6 +2,7 @@ body{font-family:'Merriweather',serif;font-size:100%}
 a{text-decoration:none}
 a:hover{text-decoration:underline}
 h1{font-size:1.3em}
+h2{font-size:1.2em}
 header a{color:#000}
 body > header > h1{margin-bottom:.2em}
 body > header > h1 > a > img{height:150px;width:150px}
