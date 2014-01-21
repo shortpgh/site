@@ -4,6 +4,7 @@ title:  "Why I Switched to Android"
 date:   2014-01-18 21:17:00
 blurb: 
 tags: devtools, android
+---
 
 After spending the last few years on iOS, I decided to switch to Android and bought a Nexus 5. There were a lot of things that I looked at when trying to decide which phone to buy. But there was one thing that actually sold me on android. That is Chrome.
 
