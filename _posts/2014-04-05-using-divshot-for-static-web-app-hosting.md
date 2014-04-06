@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Divshot for Static Web App Hosting"
-date:   2014-03-29 11:40:00
+date:   2014-04-05 22:20:00
 blurb: Last week, I got an email from [Divshot](http://www.divshot.com/) announcing that they are officially going live. I’ve had an account for a few weeks now, so I figure now is a good time to write about this hosting service.
 tags: static web apps
 ---
