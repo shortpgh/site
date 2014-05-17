@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NodePGH Vagrant + Node Reference Links
-date:   2014-04-26 17:00:00
+date:   2014-05-07 17:00:00
 blurb: Reference links from a recent talk at NodePGH about Vagrant + Node.
 tags: development
 ---
