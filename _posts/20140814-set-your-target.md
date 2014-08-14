@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Set Your Target"
+title:  "Set your target."
 date:   2014-08-14 08:21:00
 blurb: have you ever tried to throw a ball at a target? I bet you missed.
 tags: productive-and-agile
 ---
+
 
 > "The fact is that you can’t hit a target that you can’t see. 
 > If you don’t know where you are going, you will probably end
