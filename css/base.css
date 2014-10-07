@@ -2,7 +2,7 @@ body{font-family:'Merriweather',serif;font-size:100%}
 a{text-decoration:none}
 a:hover{text-decoration:underline}
 a,a:active,a:visited{color:#2793e6}
-h1{font-size:1.3em;padding-top:2em;clear:both}
+h1{font-size:1.3em;clear:both}
 h2{font-size:1.2em;padding-top:2em;clear:both}
 h3{font-size:1.1em;padding-top:2em;margin-bottom:.25em;clear:both}
 header a{color:#000}
