@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Set your target."
-date:   2014-08-14 08:21:00
-blurb: have you ever tried to throw a ball at a target? I bet you missed.
-tags: productive-and-agile
+title:  "Stop saying user"
+date:   2017-11-17 08:21:00
+blurb: When creating and describing digital products, we use the term "user" too much and it's a problem. Substituting a more meaningful term helps with your internal communication, decision making, and empathy.
+tags: product development
 ---
 
 > “If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.”
