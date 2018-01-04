@@ -31,7 +31,7 @@ When thinking about regional manager, you think about someone that manages peopl
 
 With the vp, you picture a big wig in an office with a secretary. They don’t care as much about the individual as they do about aggregate performance numbers.
 
-I can see how the vp of sales would like and use this chart showing the percent of sales each product accounts for. She can use that to determine which products may need to be dropped from the line. But we shouldn’t put it on the salespersons dashboard. the salesperson doesn’t care which products are selling across the company. It’s fine to see, but it’s unnecessary noise when he is worried about his clients. He wants to know the order status of the unfulfilled orders for his clients.
+*I can see how the vp of sales would like and use this chart showing the percent of sales each product accounts for. She can use that to determine which products may need to be dropped from the line. But we shouldn’t put it on the salespersons dashboard. the salesperson doesn’t care which products are selling across the company. It’s fine to see, but it’s unnecessary noise when he is worried about his clients. He wants to know the order status of the unfulfilled orders for his clients.*
 
 It’s probably safe to assume everyone on your team have similar visuals as I described above. You can also see how the roes can be used to discuss potential features and how the different roles may use them. This approach is typically best when everyone understands the industry or profession the product is built for. It is probably best for a small team that communicates well.
 
@@ -39,7 +39,7 @@ Another solution is to create personas with real names, and using those names di
 
 Using the same example, you might name the traveling salesperson Jen Smith. Her persona could go something like this:
 
-Jen is a mother of 2 kids. She is a salesperson for a large cosmetic company and makes deals with local boutiques. Her typical day starts by dropping her kids off of school. Then she drives to a nearby Starbucks, gets a latte, and checks her email. Then she will plan her day, which typically requires stopping by client businesses....
+*Jen is a mother of 2 kids. She is a salesperson for a large cosmetic company and makes deals with local boutiques. Her typical day starts by dropping her kids off of school. Then she drives to a nearby Starbucks, gets a latte, and checks her email. Then she will plan her day, which typically requires stopping by client businesses....*
 
 From this brief view, you can deduce a lot about the type of person that will be using the product as well as more info about her personal life. You can get an idea for how she will work, what challenges she will face, and what feature will work best for her. It also helps with empathy. There are parts of the description that will connect the creators to the people at the other end - whether it’s having kids, liking lattes, or starting your day by checking email.
 
@@ -47,6 +47,6 @@ A fuller persona will go into much more detail and should be based on research d
 
 Having this name and persona will now help in your discussion about new features.
 
-Jen travels out to businesses to check in with clients. She tries to schedule her route to be as efficient as possible. Can we use machine learning to help her identify a route based on some of the metrics that she typically uses, along with the location and driving distances?
+*Jen travels out to businesses to check in with clients. She tries to schedule her route to be as efficient as possible. Can we use machine learning to help her identify a route based on some of the metrics that she typically uses, along with the location and driving distances?*
 
 We have cultivated a habit of saying user in any situations when describing people. As such, trying to not use the word user is very difficult. I have personally been trying to remove it from my vocabulary for a while and can attest to the difficulty of not using it. But substituting more meaningful words is an educational experience. It helps with your internal communication, decision making, and empathy. And all of these things are very helpful skills to cultivate if you design or build digital products.
