@@ -8,7 +8,7 @@ tags: product development
 
 > “If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.”
 > 
-> - Henry Ford
+> -Henry Ford
 
 When creating and describing digital products, we in the software industry say “user” to refer to anyone that uses a product. This is a problem. It groups all people into one big entity, when in reality there are many types of people that use our products. The term user, while easy to use in discussion and writing, is an oversimplification. This causes problems in both the ways we talk and think about the invisible people that use our products. The word user, as well as similar blanket terms, lack emotion. When we are building our products, empathy is important. It is difficult to have empathy when you don’t have an emotional tie, and it’s hard to become emotional about “user”.
 
