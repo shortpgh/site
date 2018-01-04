@@ -2,6 +2,6 @@ name: shortpgh
 markdown: redcarpet
 safe: true
 lsi: false
-pygments: true
+highlighter: null
 url: http://shortpgh.com
 permalink: pretty
