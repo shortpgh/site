@@ -8,7 +8,7 @@ tags: static web apps
 
 The goal of a reality map is to help you define the real world process you are trying to solve. It’s a way to facilitate your information gathering experience and keep focus on what is important. It reveals questions about your project and helps get answers to those questions. And its the best way I know to start a new software project -- whether you are building a new app or adding modules or major features to existing apps.
 
-#How does it work?
+# How does it work?
 
 You start by defining the real-world workflow for your project. Break it down into steps from start to finish. You define each step along the top of the tool that you are using. It should be organized so that each step is a column heading.
 
@@ -28,13 +28,13 @@ After reviewing with your experts, you should have most of your questions answer
 
 You want a map full of answers when you are done building the map. When its done, you can use it to quickly move into your next step of development, whether it's user stories or something else. I find that the reality map can act as both a vision document and a requirements document in an agile process. It can be easily be referenced if needed as you continue through your process.
 
-#Rules for defining the workflow
+# Rules for defining the workflow
 
 The workflow is one of the hardest things to build. When you start out, you see all of the paths that can happen and want to define them all. Don’t do this. You want to focus on the primary path. Keeping the steps as high-level as possible helps simplify your paths. Comments in the step column can define where paths may deviate.
 
 If defining your workflow is troublesome, then you might have too broad of a focus. Try to break your idea down into different subsets, or epics, and pick one to start with. This will make other steps of your process easier as well.
 
-#What do you need?
+# What do you need?
 
 You can go low-tech or high tech to build your maps. If your team is in one location, you can use a whiteboard. All you need is a few different colored post-it notes and some whiteboard markers. If you have a distributed team, you’ll need something more high-tech and digitally shareable. An excel spreadsheet works, or a tool like trello, or another tool might fit your need as well. You can even combine a whiteboard with video conferencing tools. I’ll be posting some future articles to explain my methods for doing this with both a whiteboard and with trello.
 
