@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't state a problem without a solution"
 date:   2018-12-16 08:21:00
-blurb: When working through ideas or designs (brainstorming), don’t state a problem without having a solution. 
+blurb: "When working through ideas or designs (brainstorming), don’t state a problem without having a solution."
 tags: problem solving, management
 ---
 
