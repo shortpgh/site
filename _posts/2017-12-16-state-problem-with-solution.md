@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Don't state a problem without a solution"
+date:   2018-12-16 08:21:00
+blurb: When working through ideas or designs (brainstorming), don’t state a problem without having a solution. 
+tags: problem solving, management
+---
+
 > “Don’t find fault, find a remedy.”
 > -Henry Ford
 
@@ -5,7 +13,7 @@ When working through ideas or designs (brainstorming), don’t state a problem w
 
 That doesn’t mean that you shouldn’t state the problem. You should. But you need to do it in a way that helps keep the discussion moving forward. The statement should be constructive instead of attacking, which allows others to respond without being defensive. It is also beneficial if you can set up your team to make a decision on the problem.
 
-The best way to do this is to think of possible solutions before stating the problem. You can then provide a solution to the problem while stating the problem. This makes the problem feel smaller. The solution helps drives the conversation towards finding solutions than problems.
+The best way to do this is to think of possible solutions before stating the problem. You can then provide a solution while stating the problem. This makes the problem feel smaller and helps drives the conversation towards finding solutions than problems.
 
 There is a caveat to this rule - you can’t come up with a solution. This happens. At that piont, you have to decide if it is worth stating the problem, or if you can live with it. Both cases are acceptable. 
 
