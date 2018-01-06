@@ -1,5 +1,4 @@
 name: shortpgh
-markdown: redcarpet
 safe: true
 lsi: false
 highlighter: null
