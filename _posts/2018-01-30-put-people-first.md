@@ -1,5 +1,13 @@
-Empathy is a tool for building people into groups, for allowing us to function as more than self-obsessed individuals.
-Neil Gaiman
+---
+layout: post
+title:  "Put the people first"
+date:   2018-01-30 08:21:00
+blurb: "when working on technology products, we solve problems as we see them. "
+tags: problem solving, management
+---
+
+> "Empathy is a tool for building people into groups, for allowing us to function as more than self-obsessed individuals."
+> -Neil Gaiman
 
 Often when working on technology products, we solve problems as we see them -- at the implementation level. We build an interface that makes sense for the code we wrote or data that we modeled. It makes sense to us and we are good at using the product. When we do this, we are really focusing on ourselves first, not the people that will use the product. Because the people using our product don't understand our models and restrictions, it will be difficult for them to learn and understand. The people, even those technical in nature, have a mental model of what they expect that is different than the model of the creator.
 
