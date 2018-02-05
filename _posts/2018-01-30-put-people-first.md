@@ -2,7 +2,7 @@
 layout: post
 title:  "Put the people first"
 date:   2018-01-30 08:21:00
-blurb: "when working on technology products, we solve problems as we see them. "
+blurb: "when working on technology products, we solve problems as we see them instead of as our audience sees them. "
 tags: problem solving, management
 ---
 
