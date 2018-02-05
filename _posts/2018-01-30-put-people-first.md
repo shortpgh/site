@@ -15,10 +15,10 @@ To correct this problem, we need to find a way to separate outselves, as creator
 
 To do this, we need to force our brains to think about the people that our using our product. This will help us remain empathetic in the process of building the product.
 
-A reality map can be a great tool in solving this problem. This tool helps you by thinking about how the product will be used in reality, ignoring the implementation. You focus on how people will use the product over its lifetime.
+A [reality map](/2014/04/12/what-is-a-reality-map/) can be a great tool in solving this problem. This tool helps you by thinking about how the product will be used in reality, ignoring the implementation. You focus on how people will use the product over its lifetime.
 
 Interviewing the people that will be using you product is another good way to be more empathetic. Talking to the people can provide a better sense of both their goals and their problems. You can then take the information from the interviews to build personas that you can use throughout your implementation.
 
-Not referring to your audience as “user” is another great way to remain empathetic. You can read more about my thought on that here. 
+Not referring to your audience as “user” is another great way to remain empathetic. You can read more about my thought on that [here](/2017/11/17/stop-saying-user/). 
 
 It is very easy to get caught up in your work and forget about who the product is for. Using tools like reality maps and interviews at the beginning of the process can help you form the correct state of mind. Then continuing with personas and referring to your audience with correct terms can help keep you in that state of mind.
